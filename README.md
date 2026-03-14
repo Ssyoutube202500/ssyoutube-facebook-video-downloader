@@ -1,4 +1,4 @@
-# ssyoutube-facebook-video-downloader
+# ssyoutube-Youtube-video-downloader
 
 **Ditch the Ads: The Best Way to Watch YouTube Offline on Android**
 
